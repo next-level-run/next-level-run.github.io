@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "format": "prettier -w ./src"
+    "format": "prettier -w ./src",
+    "static": "next build && next export"
   },
   "dependencies": {
     "@types/node": "20.3.1",

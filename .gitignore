@@ -38,3 +38,6 @@ next-env.d.ts
 .DS_Store
 *.swp
 
+# Prod
+dist
+
